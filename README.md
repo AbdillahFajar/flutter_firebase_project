@@ -1,16 +1,10 @@
-# firebase_project
+# Latihan Flutter x Firebase (FF)
 
-A new Flutter project.
+Ini adalah latihan untuk mengoneksikan database dari firebase ke proyek flutter
 
-## Getting Started
+## Di bawah ini adalah tampilannya:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ![tampilan awal](screenshots/Screenshot%202025-12-06%20095552.png)
+- ![paksa login dengan field email dan password yang kosong](screenshots/Screenshot%202025-12-06%20095631.png)
+- ![salah email atau password](screenshots/Screenshot%202025-12-06%20095747.png)
+- ![login berhasil](screenshots/Screenshot%202025-12-06%20095808.png)
